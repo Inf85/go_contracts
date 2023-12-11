@@ -1,1 +1,1 @@
-module Inf85/go_contracts
+module github.com/Inf85/go_contracts
